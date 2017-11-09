@@ -29,7 +29,9 @@ Sebastián Gorosito - designer, sebastian@inahaus.com, Argentina
 
 ## Contacto
 David A. Jaleo
+
 jaleo@gmail.com
+
 www...
 
 ## Licencia
