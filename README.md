@@ -17,14 +17,16 @@ Documentar no es registrar hechos sino mostrar procesos. No es un oficio, sino u
 ## Equipo
 ### Promotores: 
 
-David A. Lareo, tecnólogo, Espanha
+David A. Lareo, tecnólogo, lareo@gmail.com, Espanha
 
-Antonio Lafuente, investigador científico, Espanha
+Antonio Lafuente, investigador científico, alafuente@gmail.com, Espanha
 
-Juan Freire, profesor universitário, Espanha
+Juan Freire, profesor universitário, juan.freire@gmail.com, Espanha
 
 ### Colaboradores: 
 Anne Clinio - investigadora en Ciencia de la Información, anneclinio@gmail.com, Brasil
+
+Carla Tortul - artista visual y gestora cultural, tortulcarla@gmail.com, Argentina
 
 Henrique Parra - profesor universitário e investigador en Ciencias Sociales, opensocialsciences@gmail.com, Brasil
 
@@ -37,7 +39,7 @@ Mariel Zasso - doctoranda en Estudios Humanísticos, mariel.zasso@gmail.com, Bra
 Sebastián Gorosito - designer, sebastian@inahaus.com, Argentina
 
 ## Contacto
-David A. Jaleo
+David A. Lareo
 
 lareo@gmail.com
 
