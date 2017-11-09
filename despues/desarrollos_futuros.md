@@ -1,2 +1,2 @@
 # Desarrollos futuros
-Hay alguna estrategia ara continuar?
+Hay alguna estrategia para continuar?
