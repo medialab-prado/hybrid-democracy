@@ -1,4 +1,4 @@
-# Recepta rápida
+# Receta rápida
 
 ## El arte de documentar
 ## DOC.art
