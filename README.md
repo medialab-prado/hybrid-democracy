@@ -1,4 +1,4 @@
-# Receta rápida
+# Percurso de aprendizaje
 
 ## El arte de documentar
 ## DOC.art
