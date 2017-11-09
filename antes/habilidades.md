@@ -1,2 +1,0 @@
-# Habilidades
-Qué destrezas tienes?
