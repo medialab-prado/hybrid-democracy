@@ -28,7 +28,7 @@ Anne Clinio - investigadora en Ciencia de la Información, anneclinio@gmail.com,
 
 Henrique Parra - profesor universitário e investigador en Ciencias Sociales, opensocialsciences@gmail.com, Brasil
 
-Stephan Freunberg - desarrolador web, stefan@agaric.com, Alemania
+Stephan Freudenberg - desarrolador web, stefan@agaric.com, Alemania
 
 Juan Arias - desarrolador front end, jdariasforero2008@gmail.com, Colombia
 
