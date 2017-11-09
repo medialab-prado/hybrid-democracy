@@ -10,11 +10,11 @@ Documentar un hito no es lo mismo que hacer bitácora, no es algo que tienes que
 
     1) bifurcación - cuando el colectivo tiene que elegir un camino ; 
 
-    2) mal entendido - 
+    2) mal entendido - (¡¿no lo entiendes?!)
 
     3) momento a-ha, eureka, got it! -  
 
-    4) una puesta en común - donde creemos que estamos y como continuar, 
+    4) una puesta en común - sobre donde creemos que estamos y como continuar, 
 
     5) una consulta externa -  que nos ayude con conocimientos que no tenemos; 
 
@@ -33,3 +33,7 @@ Documentar un hito no es lo mismo que hacer bitácora, no es algo que tienes que
     12) entrevista - 
 
     13) mini etnografias - 
+    
+    14) la incorporación de un nuevo colaborador 
+    
+    15) otra
