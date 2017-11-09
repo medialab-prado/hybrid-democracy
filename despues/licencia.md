@@ -1,2 +1,2 @@
 # Licensia
-Cómo está licenciado el prototipo?
+Cuál es la forma elegida para comunicar los resultados?
