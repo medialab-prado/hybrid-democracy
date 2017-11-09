@@ -16,9 +16,12 @@ Documentar no es registrar hechos sino mostrar procesos. No es un oficio, sino u
 
 ## Equipo
 ### Proponentes: 
-David A. Jaleo (Espanha)
-Antonio Lafuente (Espanha)
-Juan Freire (Espanha)
+
+David A. Lareo, tecnólogo, Espanha
+
+Antonio Lafuente, investigador científico, Espanha
+
+Juan Freire, profesor universitário, Espanha
 
 ### Colaboradores: 
 Anne Clinio - investigadora en Ciencia de la Información, anneclinio@gmail.com, Brasil
@@ -36,7 +39,7 @@ Sebastián Gorosito - designer, sebastian@inahaus.com, Argentina
 ## Contacto
 David A. Jaleo
 
-jaleo@gmail.com
+lareo@gmail.com
 
 www...
 
