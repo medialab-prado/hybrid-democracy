@@ -3,7 +3,7 @@
 ## El arte de documentar
 ## DOC.art
 
-## Resumén
+## Resumen
 
 Mediante el uso de tecnologías web y la reapropiación de herramientas propias de las comunidades de software libre, docART ayuda a visibilizar los proceso de creación colectiva y construcción de prototipos vinculados a éstos. Este “cuaderno de laboratorio“ está constituido por dos partes indisociables: las recetas libres y el mapa de proceso.
 
@@ -39,11 +39,11 @@ Expertos en Git y librerías Javascript de edición colaborativa.
 ## Equipo
 ### Promotores: 
 
-David A. Lareo, tecnólogo, lareo@gmail.com, Espanha
+David A. Lareo, tecnólogo, lareo@gmail.com, España
 
-Antonio Lafuente, investigador científico, alafuente@gmail.com, Espanha
+Antonio Lafuente, investigador científico, alafuente@gmail.com, España
 
-Juan Freire, profesor universitário, juan.freire@gmail.com, Espanha
+Juan Freire, investigador científico, juan.freire@gmail.com, México / España
 
 ### Colaboradores: 
 Anne Clinio - investigadora en Ciencia de la Información, anneclinio@gmail.com, Brasil
