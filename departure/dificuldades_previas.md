@@ -1,2 +1,2 @@
 # Dificuldades previas
-Cómo pudiste llegar aquí?
+¿Cómo pudistes llegar aquí?
