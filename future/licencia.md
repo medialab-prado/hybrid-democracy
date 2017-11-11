@@ -1,2 +1,2 @@
-# Licensia
-Cuál es la forma elegida para comunicar los resultados?
+# Licencia
+¿Cuál es la forma elegida para comunicar los resultados?
