@@ -39,7 +39,7 @@ Expertos en Git y librerías Javascript de edición colaborativa.
 ## Equipo
 ### Promotores: 
 
-David A. Lareo, tecnólogo, lareo@gmail.com, España
+David A. Lareo, tecnólogo, dalareo@gmail.com, España
 
 Antonio Lafuente, investigador científico, alafuente@gmail.com, España
 
@@ -56,14 +56,14 @@ Stephan Freudenberg - desarrolador web, stefan@agaric.com, Alemania
 
 Juan Arias - desarrolador front end, jdariasforero2008@gmail.com, Colombia
 
-Mariel Zasso - doctoranda en Estudios Humanísticos, mariel.zasso@gmail.com, Brasil
+Mariel Zasso - doctoranda en Estudios Humanísticos, mariel.zasso@gmail.com, México / Brasil
 
 Sebastián Gorosito - designer, sebastian@inahaus.com, Argentina
 
 ## Contacto
 David A. Lareo
 
-lareo@gmail.com
+dalareo@gmail.com
 
 www...
 
