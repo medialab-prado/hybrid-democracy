@@ -1,2 +1,2 @@
 # Habilidades
-Qué destrezas tienes?
+¿Qué destrezas tienes?
