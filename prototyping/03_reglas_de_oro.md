@@ -13,7 +13,7 @@ Hemos acordado recomendar a los autores unas cuantas reglas sencillas que creemo
 
     4 - Usa palabras comunes;
 
-    5 - Importan los detalles praticos y ordinarios
+    5 - Importan los detalles prácticos y ordinarios.
 
     Esta cinco reglas se resumen en dos:
 
