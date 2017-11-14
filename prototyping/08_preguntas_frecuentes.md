@@ -8,6 +8,10 @@
 
 [Las cinco reglas de oro para hacer una nota](https://github.com/docART/docs/blob/recipe/prototyping/03_reglas_de_oro.md)
 
+Qué es una receta lenta?
+
+Qué es una receta rápida?
+
 [Qué es un grafema?](https://github.com/docART/docs/blob/recipe/prototyping/05_nocion_de_grafema.md)
 
 [Qué es un hito?](https://github.com/docART/docs/blob/recipe/prototyping/07_descripcion_de_un_hito.md)
