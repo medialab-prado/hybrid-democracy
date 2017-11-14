@@ -1,4 +1,5 @@
 # Introducción a la propuesta #
+*Día 6 nov 2017*
 
 ![grafema](https://github.com/docART/docs/blob/recipe/prototyping/grafemas/docart27.jpeg)
 
