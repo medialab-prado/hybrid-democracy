@@ -63,3 +63,23 @@ Categorias de organización  y categorizar hitos de aprendizaje compartida entre
 
 El hito como producción del común: Cuando alguien comparte algo que se le pasó y la gente se deja afectar, surge un momento de negociación en el grupo que nos genera una voluntad de seguir caminando juntos. Si convocamos como un hito, significa que nos animamos a seguir haciendo comunidad, convivialidad, evitar el fork. 
 
+Hitos:
+
+Decisiones iracionales => no hay ninguna manera logica de demonstrar. No demandam explicacion, demandam conversacion.Ej. el afectivo, el contexto político (los aspectos más mundanos).
+
+Problema: como abordar la redacion de un hito (algo que produce un giro)?
+
+El esfuerzo de quedarmos juntos impone la necesidade de buscar una forma de redactar que haga sentido para todos.
+
+Problema: por vezes hay una impresion de que el hito es una cosa muy subjectiva, muy sentimental, muy individual, psicologicacion de los afectos. Los cuidados son praticos, es no experiencial, el cuerpo.
+
+Lo hito no es un relato individual, psicologizado.
+
+Los cuidados como un antitodo para el individualismo. Los cuidados crean lo espaco comun.
+
+Escribimos un hito para darmos conta de la enorme cantidade de decisiones "iracionales" -  en el sentido de que no logicamente necesarias, no empiricamente constrastadas, las corazonadas. Sin valorarlas, la experiencia ni siqueira existiria. Sin dar cuenta de eses procesos, no seria replicable. 
+
+Simplificando el problema para hacelo posible.
+
+
+
