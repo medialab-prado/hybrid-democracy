@@ -3,7 +3,7 @@
 
 ![grafema](https://github.com/docART/docs/blob/recipe/prototyping/grafemas/docart27.jpeg)
 
-*Dibujo de un percurso de aprendizaje marcado por hitos*
+*Grafema:Dibujo de un percurso de aprendizaje marcado por hitos*
 
 **Contexto:** Los laboratorios ciudadanos hacen mal la documentación, trabajando con criterios de popularidad, mientras la mejor forma de comunicarmos es replicar comunidades y prototipos. En el mundo de la ciencia, el 96% de los experimentos publicados en las revistas científicas más importantes de biologia molecular no son replicables por pares? Una hipotese es que una falla de su documentación es no incluir los aspectos "no objetivos" de la producción del conocimiento y que son momentos claves de su desarrollo (que aquí llamamos hitos). 
 
