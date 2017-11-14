@@ -1,4 +1,4 @@
-#Una nota#
+# Una nota #
 
 ![un ejemplo de nota](https://github.com/docART/docs/blob/recipe/prototyping/grafemas/nota.jpeg)
 
