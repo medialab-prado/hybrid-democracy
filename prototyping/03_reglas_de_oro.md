@@ -1,5 +1,7 @@
 #Cinco reglas de oro#
 
+!{Diez reglas de oro} (https://github.com/docART/docs/blob/recipe/prototyping/grafemas/diez_reglas.jpeg)
+
 Hemos acordado recomendar a los autores unas cuantas reglas sencillas que creemos van ayudarles a darle consitencia a las notas que configuran el prototipo:
 
     1-haz visible la experiencia;
