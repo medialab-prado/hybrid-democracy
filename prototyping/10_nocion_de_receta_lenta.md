@@ -11,7 +11,7 @@ Nos gustaría que nos contagiaras tu pasión y tu visión. También nos importan
 
 ## Durante ##
 
-Lo que necesitamos es dar cuenta de todos los detalles prácticos imprescindibles para replicar el prototipo. En caso de duda lo mejor es documentar lo sucedido. Cada nota ([ordinária](https://github.com/docART/docs/blob/recipe/prototyping/06_descripcion_de_nota.md) o [hito](https://github.com/docART/docs/blob/recipe/prototyping/07_descripcion_de_un_hito.md) tendrá una URL propia para poder relacionarlas entre si. Las notas pueden incluir videos, imágenes, archivos de sonido o textos. Con frecuencia el equipo se divide en grupos, y cada uno de ellos hará sus propias notas.
+Lo que necesitamos es dar cuenta de todos los detalles prácticos imprescindibles para replicar el prototipo. En caso de duda lo mejor es documentar lo sucedido. Cada nota ([ordinária](https://github.com/docART/docs/blob/recipe/prototyping/06_descripcion_de_nota.md) o [hito](https://github.com/docART/docs/blob/recipe/prototyping/07_descripcion_de_un_hito.md)) tendrá una URL propia para poder relacionarlas entre si. Las notas pueden incluir videos, imágenes, archivos de sonido o textos. Con frecuencia el equipo se divide en grupos, y cada uno de ellos hará sus propias notas.
 
 ## Después ##
 
