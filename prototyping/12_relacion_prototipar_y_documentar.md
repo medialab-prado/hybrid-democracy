@@ -4,6 +4,6 @@ Para hacer un prototipo de forma colaborativa se requiere compartir muchas habil
 
 Cómo podemos dar cuenta de lo que ha pasado, sin renunciar a lo que nos ha pasado? O, en otros términos, lo que nos ha pasado es relevante para lo que ha sucedido? Nuestra respuesta es sí. Y por eso es tan importnate la documentación: no sólo porque queremos comunicarlo o compartirlo sino también porque queremos hacer visibles los elementos menos técnicos, operativos, formales, codificables... 
 
-Al documentar nos encontramos con grafemas que nos ayudan a entender lo que estábamos haciendo, pero aún no lo sabíamos. Documentar entonces no es registrar lo que sabíamos sino dejarnos afectar por la incertidumbre asociada al hecho de compartir.
+Al documentar nos encontramos con [grafemas](https://github.com/docART/documentacion/blob/recipe/prototyping/05_nocion_de_grafema.md) que nos ayudan a entender lo que estábamos haciendo, pero aún no lo sabíamos. Documentar entonces no es registrar lo que sabíamos sino dejarnos afectar por la incertidumbre asociada al hecho de compartir.
 
 Las cosas también están repletas de elementos afectivos. O en otras palabras nace trás muchos cuidados invisibles. 
