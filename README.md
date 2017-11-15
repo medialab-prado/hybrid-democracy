@@ -1,4 +1,4 @@
-# Percurso de aprendizaje
+# Mapa de aprendizaje
 
 Es una línea de tiempo que registra los "hitos" - momentos que, en colectivo, reconocemos como clave para avanzar en un problema y llegar hasta la recepta lenta. 
 
