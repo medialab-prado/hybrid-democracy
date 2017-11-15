@@ -4,7 +4,19 @@ Es una línea de tiempo que registra los "hitos" - momentos que, en colectivo, r
 
 Un hito es algo que todo el grupo reconoce como importante en su proceso de aprendizaje. Es la expresión de que algo ha pasado, que hubo un aprendizaje colectivo y, por lo tanto, el grupo debería registrar y compartir. 
 
-Documentar un hito no es lo mismo que hacer bitácora, no es algo que tienes que hacer todos los días, no es tarea burocratica. Sube los objetos digitales (video, audios, textos) que ayuden a otros sentir y entender lo que has vivido.  
+Documentar un hito no es lo mismo que hacer bitácora, no es algo que tienes que hacer todos los días, no es tarea burocratica. Sube los objetos digitales (video, audios, textos) que ayuden a otros sentir y entender lo que has vivido.
+
+
+# Descripción de un hito #
+
+![grafema del concepto hito](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/grafema_hito.jpeg)
+
+Un hito altera el rumbo del proceso de prototipado. Se experimenta como un evento colectivo que no anula la diversidad del grupo. Para explicarlo debemos identificar en el objeto que se concreta o materializa.
+
+Cada hito hace visible un aprendizaje del grupo. La suma de los hitos componen el mapa de aprendizajes del equipo. 
+
+Como es una nota también está compuesto de dos partes: un [grafema](https://github.com/docART/documentacion/blob/recipe/prototyping/05_nocion_de_grafema.md) y um texto explicativo. 
+
 
 ## Sugerencias de hitos: 
 
