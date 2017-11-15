@@ -23,6 +23,8 @@ Desarrollo de interoperabilidad con el estándar de flujo de documentación GIT 
 
 Integración de la herramienta de documentación de “recetas libres“ y el “mapa de proceso“
 
+## Recursos
+
 ## Procedimientos
 
 ## Cronograma
@@ -69,3 +71,7 @@ www...
 
 ## Licencia
 CC by-sa-nc
+
+## URL
+
+## Imagem
