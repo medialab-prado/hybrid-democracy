@@ -18,7 +18,6 @@ Referencias
 
 ## Aspectos prácticos ##
 
-
 [Cómo iniciar un proceso de documentación?](https://github.com/docART/documentacion/blob/recipe/prototyping/00_iniciar_la_documentacion.md)
 
 [Cómo documentar un proceso de prototipado?](https://github.com/docART/documentacion/blob/recipe/prototyping/04_la_representacion_del_prototipo.md)
