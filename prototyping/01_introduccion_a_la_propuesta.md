@@ -5,7 +5,7 @@
 
 *Grafema:Dibujo de un percurso de aprendizaje marcado por hitos*
 
-** Contexto: ** 
+ ## Contexto: ## 
 En los [laboratorios ciudadanos](http://www.academia.edu/29114688/Los_imaginarios_del_Laboratorio_ciudadano_) se habla mucho de la importancia de la documentación pero en la práctica se hace sin mucha dedicación y de forma más burocrática que creativa. La documentación puede y debe mejorarse. Documentamos para compartir nuestro trabajo y su éxito no deberíamos medirlo por su popularidad sino por su capacidad para ser replicado. La replicabilidad sin embargo no está asegurada si limitamos la documentación a los aspectos técnicos u operacionales. Hay evidencias recientes de que la inmensa mayoría de los experimentos científicos no son replicables. En ciencia se habla ya abiertamente de este problema y es tratado como una crisis de replicabilidad. ¿Cómo explicarla? ¿A qué atribuir un problema tan profundo como inesperado e inquietante? Nuestra hipótesis es que la documentación, en cualquiera de sus formas (paper, cuaderno de laboratorio, report, tesis,...) sólo incluye los aspectos objetivos y deja de lado la dimensión afectiva, relacional o empática que también forma parte del proceso de produccción de conocimiento. 
 
 **Propuesta:** La documentación debe incorporar dimensiones afectivas, pues, su registro es también un proceso de investigación. Ella registra partes que, historicamente, son consideradas colaterales del proceso (la subjectividad, los momentos a-ha etc.) y produce un "recorrido subjetivo" 
