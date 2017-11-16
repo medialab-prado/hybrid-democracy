@@ -1,6 +1,6 @@
 # Descripción de un hito #
 
-![un hito](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/hito.mp4)
+![un hito](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/hito2.jpeg)
 
 Un hito altera el rumbo del proceso de prototipado. Se experimenta como un evento colectivo que no anula la diversidad del grupo. Para explicarlo debemos identificar y describir el objeto en el que se concreta o materializa.
 
