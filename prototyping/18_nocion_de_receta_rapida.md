@@ -4,19 +4,14 @@ La receta rápida contiene la mínima información necesaria para identificar el
 
 Está dividida en las seguientes partes: título, ingredientes, pasos necesários, consejos, recursos y foto final. 
 
-### Título: ### 
-Debe contener el alma del prototipo
+**Título:** Debe contener el alma del prototipo
 
-### Ingredientes: ### 
-Qué necesitamos para ejecutar la receta
+**Ingredientes:** Qué necesitamos para ejecutar la receta
 
-### Pasos ####
-Descripción directa de la sucesión ordenada de pasos a seguir 
+**Pasos:** Descripción directa de la sucesión ordenada de pasos a seguir 
 
-### Consejos ###
-Recomendaciones más urgentes
+**Consejos:** Recomendaciones más urgentes
 
-### Recursos ###
-Lugares de consulta
+**Recursos:** Lugares de consulta
 
-### Foto final ###
+**Foto final**
