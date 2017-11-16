@@ -1,14 +1,16 @@
 **Cambio de backend y opcion de la plataforma tecnologica** 
 
-La propuesta original del prototipo tendria como backend La Forxa. La Forxa es software livre y fue desarollada por el proponente deste proyecto. Esta baseada en el software y protocolo Git. Fue desarollado en lenguaje de programación Gol (de Google).
+La propuesta original del prototipo estaba basada en A Forxa do Co-Lab, una herramienta desarrollada por los promotores el proyecto en el año 2016 para el Laboratorio Ciudadano de A Coruña. A Forxa es software libre y está basada en el software y protocolo Git. Fue desarollada en el lenguaje de programación Go, ![A Forxa](https://forxa.colab.coruna.gal/).
 
-El modelo de git es adecuada para la documentación porque permite visualizar la historia y no sólo el producto final. Reto es cómo traducir la visión a un modelo de datos y las interacciones de usuarios con la plataforma.
+El modelo de Git es adecuado para la documentación porque permite visualizar la historia y no sólo el producto final. El reto es traducir esta visión a un modelo de datos y definir las interacciones de los usuarios con la plataforma.
 
 **Problemas:**
-Hay algunas fragilidades neste momento para seguirmos con la Forxa como backend. No permite la edicción colaborativa síncrona. La comunidade de desarollo de Gol es aunque muy pequeña. La app de la Forxa esta incompleta.
+
+Hay algunas fragilidades en este momento para seguir con la Forxa como backend: no permite la edición colaborativa,la comunidade de desarollo de Go es aún muy pequeña y la API de la Forxa esta incompleta.
 Se hace hicapié en la cuestión visual. Más que tener la solucción tecnológica más acabada, lo más importante ahora es la usabilidad.
 
-**Solucion de interoperabilidade:**
-Vamos adoptar tecnologias más mainstream para que tengamos una comunidad más grande al inicio. Decidimos utilizar la app de GitHub. Esta decision implica en algunos limites a la soberania de los dados. No vamos utilizar las "issues" (incidencias) de Github porque esta feature no permite la migracion posterior de los datos para otras plataformas Git.
-Usaremos el concepto de ramas (y no de las issues) para organizar los dos ejes (Receta Lenta y Mapa de Aprendizage) de la documentacion del prototipo.
-Tendremos que construir la aplicacion que ira interecionar con la app de Github.
+**Solucion de interoperabilidad:**
+
+Vamos a adoptar tecnologias más generalistas para que tengamos una comunidad más grande al inicio. Decidimos utilizar la API de GitHub. Esta decision implica en algunos limites a la soberania de los datos. No vamos utilizar las "issues" (incidencias) de Github porque esta feature no permite la migracion posterior de los datos para otras plataformas Git.
+Usaremos el concepto de ramas (y no de las issues) para organizar los dos ejes (Receta Lenta y Mapa de Aprendizaje) de la documentacion del prototipo.
+Tendremos que construir la aplicacion que consumirá la API de Github.
