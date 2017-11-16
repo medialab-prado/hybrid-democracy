@@ -1,4 +1,4 @@
-# Introducción DocART #
+# Introducción docART #
 
 ## Aspectos conceptuales ##
 
