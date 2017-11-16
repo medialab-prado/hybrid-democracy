@@ -6,7 +6,7 @@ El modelo de git es adecuada para la documentación porque permite visualizar la
 
 **Problemas:**
 Hay algunas fragilidades neste momento para seguirmos con la Forxa como backend. No permite la edicción colaborativa síncrona. La comunidade de desarollo de Gol es aunque muy pequeña. La app de la Forxa esta incompleta.
-Se hace hicapié en la cuestión visual, más que tener la solucción tecnológica más perfecta, pues lo más importante es la usabilidad.
+Se hace hicapié en la cuestión visual. Más que tener la solucción tecnológica más acabada, lo más importante ahora es la usabilidad.
 
 **Solucion de interoperabilidade:**
 Vamos adoptar tecnologias más mainstream para que tengamos una comunidad más grande al inicio. Decidimos utilizar la app de GitHub. Esta decision implica en algunos limites a la soberania de los dados. No vamos utilizar las "issues" (incidencias) de Github porque esta feature no permite la migracion posterior de los datos para otras plataformas Git.
