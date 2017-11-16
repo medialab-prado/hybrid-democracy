@@ -1,4 +1,6 @@
 
+[Imagem: realizacion entrevista](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_134216.jpg)
+
 **Entrevistas e User Stories** 
 
 Para definir la arquitetura del programa y el flujo de la documentacion realizada por el usuario, decidimos aplicar algunas entrevistas para evaluar las percepciones, entendimientos e los posibles usos del modelo y concepto del docART.
@@ -15,13 +17,13 @@ Presentación: Somos integrantes del proyecto DocArt que se está prototipando e
 
 Datos personales    
 
-	Nombre
+Nombre
 
-	País
+País
 
-	Equipo/Proyecto
+Equipo/Proyecto
 
-	Área de responsabilidad en el proyecto (comunicación, frontend, backend, UX, ciencias sociales y política)
+Área de responsabilidad en el proyecto (comunicación, frontend, backend, UX, ciencias sociales y política)
 
 1. Durante el proceso de desarrollo del prototipo, ¿por qué y para qué documentar? 
 
