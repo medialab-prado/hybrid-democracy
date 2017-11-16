@@ -8,6 +8,6 @@
 
 [La importacia de los afectos](https://github.com/docART/documentacion/blob/recipe/prototyping/13_la_importancia_de_los_afectos.md)
 
-[La relación entre hechos y afectos] (https://github.com/docART/documentacion/blob/recipe/prototyping/15_relacion_entre_hechos_y_afectos.md) 
+[La relación entre hechos y afectos](https://github.com/docART/documentacion/blob/recipe/prototyping/15_relacion_entre_hechos_y_afectos.md) 
 
 Referencias
