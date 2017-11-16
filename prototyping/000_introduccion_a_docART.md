@@ -21,16 +21,16 @@ Referencias
 
 [Cómo documentar un proceso de prototipado?](https://github.com/docART/documentacion/blob/recipe/prototyping/04_la_representacion_del_prototipo.md)
 
-[Qué es una nota ordinária?](https://github.com/docART/documentacion/blob/recipe/prototyping/06_descripcion_de_nota.md)
+[Grafema](https://github.com/docART/documentacion/blob/recipe/prototyping/05_nocion_de_grafema.md)
 
-[Las cinco reglas de oro para hacer una nota](https://github.com/docART/documentacion/blob/recipe/prototyping/03_reglas_de_oro.md)
+[Nota ordinária](https://github.com/docART/documentacion/blob/recipe/prototyping/06_descripcion_de_nota.md)
 
-[Qué es una receta lenta?](https://github.com/docART/documentacion/blob/recipe/prototyping/10_nocion_de_receta_lenta.md)
+[Cinco reglas de oro para las nota](https://github.com/docART/documentacion/blob/recipe/prototyping/03_reglas_de_oro.md)
 
-Qué es una receta rápida?
+[Receta lenta](https://github.com/docART/documentacion/blob/recipe/prototyping/10_nocion_de_receta_lenta.md)
 
-[Qué es un grafema?](https://github.com/docART/documentacion/blob/recipe/prototyping/05_nocion_de_grafema.md)
+[Receta rápida](https://github.com/docART/documentacion/blob/recipe/prototyping/18_nocion_de_receta_rapida.md)
 
-[Qué es un hito?](https://github.com/docART/documentacion/blob/recipe/prototyping/07_descripcion_de_un_hito.md)
+[Hito](https://github.com/docART/documentacion/blob/recipe/prototyping/07_descripcion_de_un_hito.md)
 
-Qué es el mapa de aprendizaje?
+[Mapa de aprendizajes](https://github.com/docART/documentacion/blob/recipe/prototyping/17_mapa_de_aprendizajes.md)
