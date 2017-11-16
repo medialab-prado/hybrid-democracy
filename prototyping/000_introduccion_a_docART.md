@@ -1,4 +1,4 @@
-# Introducción al método Doc.ART #
+# Introducción DocART #
 
 ## Aspectos conceptuales ##
 
