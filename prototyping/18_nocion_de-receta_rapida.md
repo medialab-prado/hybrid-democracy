@@ -1,1 +1,0 @@
-# La receta rápida #
