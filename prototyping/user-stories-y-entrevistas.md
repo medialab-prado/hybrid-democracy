@@ -69,3 +69,4 @@ Esta diez reglas se resumen en dos:
 Una: hazlo deseable; dos: hazte empático.
 
 
+(https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_133954.jpg)
