@@ -1,6 +1,6 @@
 # Las reglas de oro del hito #
 
-Además de las reglas de oro recomendadas para redactar una notas ordinária, deberías también considerar las seguientes recomendacciones:
+Además de [las reglas de oro](https://github.com/docART/documentacion/blob/recipe/prototyping/03_reglas_de_oro.md) recomendadas para redactar una [nota ordinária](https://github.com/docART/documentacion/blob/recipe/prototyping/06_descripcion_de_nota.md), deberías también considerar las seguientes recomendacciones:
 
 1 - Explicita cúal fue el cambio del rumbo;
 
