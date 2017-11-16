@@ -1,6 +1,6 @@
 # docART para principiantes #
 
-Una presentación rápida de docART podría imaginarse en tres pasos sucesivos: comprender la importancia de los grafemas, entender la necesidad de los hitos y explicar la relevancia de GIT.
+Una presentación rápida de docART podría imaginarse en tres pasos sucesivos: comprender la importancia de los [grafemas](https://github.com/docART/documentacion/blob/recipe/prototyping/05_nocion_de_grafema.md), entender la necesidad de los hitos y explicar la relevancia de GIT.
 
 ## 1.  Importancia de los grafemas ##
 La imagen de un proceso de prototipado colectivo evoca una situación de desorden fraternal y mucho papeleo, dedicación y apremio. La vibración cioolectiva es tan evidete como el caos circundante. Hay muchas imágenes que lo prueban como si se tratara de algo anecdótico y sin relevancia cogntiva. Lo usual es que todo el papalerío que forman los esquemas, los dibujos, los post-it, los diagramas acaben en la papelera. Nosotros estamos seguros de que muchos de esos objetos, los grafemas, contienen testimonios claves del proceso que nos permitió avanzar en el diseño del prototipo. Y por eso deben integrar la documentación. 
