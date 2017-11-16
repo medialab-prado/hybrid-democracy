@@ -1,5 +1,5 @@
 
-(https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_134216.jpg)
+![Imagem](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_134216.jpg)
 
 **Entrevistas y User Stories** 
 
@@ -69,4 +69,4 @@ Esta diez reglas se resumen en dos:
 Una: hazlo deseable; dos: hazte empático.
 
 
-(https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_133954.jpg)
+![Imagem](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_133954.jpg)
