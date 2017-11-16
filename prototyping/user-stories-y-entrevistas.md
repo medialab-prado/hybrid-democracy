@@ -1,7 +1,7 @@
 
-[Imagem: realizacion entrevista](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_134216.jpg)
+(https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/IMG_20171109_134216.jpg)
 
-**Entrevistas e User Stories** 
+**Entrevistas y User Stories** 
 
 Para definir la arquitetura del programa y el flujo de la documentacion realizada por el usuario, decidimos aplicar algunas entrevistas para evaluar las percepciones, entendimientos e los posibles usos del modelo y concepto del docART.
 
