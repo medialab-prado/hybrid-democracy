@@ -33,6 +33,6 @@ Referencias
 
 [Hito](https://github.com/docART/documentacion/blob/recipe/prototyping/07_descripcion_de_un_hito.md)
 
-[Tres reglas de oro para el hito](Las reglas de oro del hito)
+[Tres reglas de oro para el hito](https://github.com/docART/documentacion/blob/recipe/prototyping/19_reglas_de_oro_hito.md)
 
 [Mapa de aprendizajes](https://github.com/docART/documentacion/blob/recipe/prototyping/17_mapa_de_aprendizajes.md)
