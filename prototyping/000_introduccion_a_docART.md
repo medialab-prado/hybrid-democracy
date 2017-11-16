@@ -1,5 +1,7 @@
 # Introducción docART #
 
+![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
+
 ## Aspectos conceptuales ##
 
 [Importancia de la documentación](https://github.com/docART/documentacion/blob/recipe/prototyping/11_importancia_de_la_documentacion.md) 
