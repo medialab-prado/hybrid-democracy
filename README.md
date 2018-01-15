@@ -1,77 +1,20 @@
 # Receta rápida
+# HybridDemocracy 
 
-## El arte de documentar
-## DOC.art
+Este es un proyecto creado en el marco del espacio "Inteligencia Colectiva para la Democracia" (#ICDemocracia17)
 
-## Resumen
+Esta carpeta contiente:
 
-Mediante el uso de tecnologías web y la reapropiación de herramientas propias de las comunidades de software libre, docART ayuda a visibilizar los proceso de creación colectiva y construcción de prototipos vinculados a éstos. Este “cuaderno de laboratorio“ está constituido por dos partes indisociables: las recetas libres y el mapa de proceso.
+- Una resumen o receta rápida de cómo implementar el proyecto
+- Un manual de uso que describe cómo combinar participación a través de plataformas digitales con participación deliberativa offline en base a jurados ciudadanos
+- Un manual para gobiernos municipales que explica cómo organizar la participación deliberativa con jurados ciudadanos
+- Esquemas del funcionamiento del proyecto
+- Una nota que recoge aspectos legales a tener en cuenta a la hora de implementar el modelo "Democracia Híbrida" que se ha investigado en el marco del Taller Inteligencia Colectiva para la Democracia de Medialab-Prado. 
 
-Las recetas libres permiten que el conocimiento pueda ser replicado, dan cuenta de los resultados del proceso y garantizan el reconocimiento debido a quienes han contribuido a la producción del mismo. El mapa de proceso hace visibles los recovecos del proceso del proceso de aprendizaje e identifica los rastros/restos que materializan las dimensiones tacita, colaborativa, conflictiva y afectiva presentes en todos los aprendizajes.
+El material ha sido elaborado por: 
 
-Basado en estandards web y adaptado al modelo de gestión de versiones y colaboración de GIT docART permite dar cuenta de dos funciones exigibles a todo proceso de documentacion: documentar para compartir y documentar para evaluar.
+El modelo y materiales han sido creado en el marco de "Inteligencia Colectiva para la Democracia" 2017 en el MadiaLab-Prado de Madrid por: 
+Rebeca Díez Escudero, Sanna Ghotbi, Cristian León, Arantxa Mendiharat, Stefano Stortone y Eduardo Weinhardt con la asistencia de: 
+David Schecter, Lyn Carson y Iain Walker de The newDemocracy Foundation, miembro de International Democracy R&D network; 
+Terry Bouricius; Brian Sullivan; y los mentores Dinorah Cantú-Pedraza y Agustín Frizzera.
 
-## Motivaciones
-
-Documentar no es registrar hechos sino mostrar procesos. No es un oficio, sino una  actitud ante la vida: una mentalidad antes que una técnica. Los procesos de construcción colectiva y de prototipado colaborativo se invisibilizan o desaparecen tras la presencia del entregable porque esos procesos se escapan a las herramientas convencionales de documentación. El equipo de EduCaaS, en colaboración con Antonio Lafuente, estamos diseñando una herramienta digital que permita visibilizar estos procesos y además modelarlos de manera que se puedan replicar, modificar y evaluar. Esta herramienta es una pieza fundamental en los laboratorios ciudadanos, entendidos como dispositivos de escucha y espacios abiertos de creación colectiva fundamentales para la renovación democrática de nuestra sociedad.
-
-## Objetivos
-
-Prototipado de la solución tecnológica ya existente en los grupos de trabajo del taller, como herramienta de documentación del proceso.
-
-Desarrollo de interoperabilidad con el estándar de flujo de documentación GIT y compatibilidad de los documentos generados con la API de Github/Gitlab
-
-Integración de la herramienta de documentación de “recetas libres“ y el “mapa de proceso“
-
-## Recursos
-
-## Procedimientos
-
-## Cronograma
-
-## Necesidades
-
-Desarrolladores web con experiencia en el desarrollo Front End y/o con conocimientos avanzados de programación de API.
-
-Expertos en Git y librerías Javascript de edición colaborativa.
-
-## Referencias
-
-
-## Equipo
-### Promotores: 
-
-David A. Lareo, tecnólogo, dalareo@gmail.com, España
-
-Antonio Lafuente, investigador científico, alafuente@gmail.com, España
-
-Juan Freire, investigador científico, juan.freire@gmail.com, México / España
-
-### Colaboradores: 
-Anne Clinio - investigadora en Ciencia de la Información, anneclinio@gmail.com, Brasil
-
-Carla Tortul - artista visual y gestora cultural, tortulcarla@gmail.com, Argentina
-
-Henrique Parra - profesor universitário e investigador en Ciencias Sociales, henrique@pimentalab.net, Brasil
-
-Stephan Freudenberg - desarrolador web, stefan@agaric.com, Alemania
-
-Juan Arias - desarrolador front end, jdariasforero2008@gmail.com, Colombia
-
-Mariel Zasso - doctoranda en Estudios Humanísticos, mariel.zasso@gmail.com, México / Brasil
-
-Sebastián Gorosito - designer, sebastian@inahaus.com, Argentina
-
-## Contacto
-David A. Lareo
-
-dalareo@gmail.com
-
-www...
-
-## Licencia
-CC by-sa-nc
-
-## URL
-
-## Imagem
